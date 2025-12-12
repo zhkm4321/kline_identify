@@ -1,4 +1,5 @@
-/CVS/*
-**/CVS/*
-.cvsignore
-*/.cvsignore
+﻿*/__pycache__
+*.json
+*.pt
+*.npy
+kline_search/search_result/*
