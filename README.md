@@ -1,5 +1,5 @@
 基于深度学习的 K 线形态相似性搜索工具，可在全市场历史数据中快速找到相似的 K 线走势形态。
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8e4689fcd7de48f39cd559008375208d.gif)
+![8e4689fcd7de48f39cd559008375208d](https://github.com/user-attachments/assets/a6475604-b4fe-4061-b06b-e44d240de3bb)
 
 ## 📋 功能概述
 
